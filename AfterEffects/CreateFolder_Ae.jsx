@@ -2,7 +2,6 @@
     Create folders within the AE project window.
 
     Author:B.Prethish
-
 */
 {
     // create undo group

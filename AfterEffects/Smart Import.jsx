@@ -13,7 +13,6 @@ function SmartImport(targetFolder, InputFolder) {
 			app.newProject();
 		}
 
-
 		function processFile(theFile) {
 			try {
 				// Create a variable containing ImportOptions.
